@@ -15,7 +15,7 @@ Profitability Analysis
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](Screenshot (21).png)
+![Dashboard](Screenshot (21).png
 
 ---
 
