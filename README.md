@@ -50,6 +50,7 @@ Profitability Analysis
 * **Top Revenue Drivers**: *Food & Beverages*
   and *Sports & Travel* lead overall sales
   performance and top-line revenue.
+  
 * **Loss-Making Categories**: *Health &
   Beauty* generates the lowest sales while
   facing critical cost pressures leading
@@ -59,13 +60,14 @@ Profitability Analysis
 * **Branch Distribution**: Sales volume is
   evenly distributed across branches
   (~32% to 34% share each).
+  
 * **Demographic Performance**: Alexandria
   shows higher gross income contribution
   among female customers compared to male
   customers, while Cairo and Giza maintain
   demographic parity.
 
-### 3. Temporal & Seasonal Analysis
+### ### 3. Monthly Sales Performance
 * **Sales Volatility**: Total sales dropped
   to ~95K during February before rebounding
   strongly to ~110K in March.
